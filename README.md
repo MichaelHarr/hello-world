@@ -1,4 +1,4 @@
 # hello-world
 First Repository
 
-Hi, I'm Michael. I'm currently studying Computer Science at University.
+Hi, I'm Michael. I'm currently a second year, studying Computer Science at University.
